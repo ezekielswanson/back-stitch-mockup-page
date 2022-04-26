@@ -24,6 +24,9 @@ Live link at https://back-stitch-mock-up.netlify.app/
 
 
 
+<img width="1153" alt="Screen Shot 2022-04-25 at 7 32 05 PM" src="https://user-images.githubusercontent.com/75798690/165195991-1ee248e1-2ed3-4c59-8bff-c5374bec327e.png">
+
+
 
 
 <img width="1097" alt="Screen Shot 2022-04-25 at 7 25 14 PM" src="https://user-images.githubusercontent.com/75798690/165195332-c916c91f-b21e-4ca4-943f-ab7598e80c0d.png">
