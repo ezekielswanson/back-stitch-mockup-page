@@ -6,7 +6,12 @@ This site used HTML, SCSS, and vanilla JavaScript with a flickity imagine slider
 Live link at https://back-stitch-mock-up.netlify.app/
 
 
-<img width="1120" alt="Screen Shot 2022-04-25 at 4 34 27 PM" src="https://user-images.githubusercontent.com/75798690/165179080-4cb33ace-9116-4078-837d-0103e415595a.png">
+
+
+
+<img width="1105" alt="Screen Shot 2022-04-25 at 7 24 06 PM" src="https://user-images.githubusercontent.com/75798690/165195208-5dd3f6e9-de41-495e-8bd8-ce05c09e3c9d.png">
+
+
 
 
 <img width="1149" alt="Screen Shot 2022-04-25 at 4 36 27 PM" src="https://user-images.githubusercontent.com/75798690/165179130-315406f3-7afe-4aac-b984-2edba78c2185.png">
