@@ -1,6 +1,6 @@
 This is a mock up page of the HubSpot marketplace theme created by Backstich. 
 
-This site used HTML, SCSS, and vanilla JavaScript with a flickity imagine slider plugin. 
+This site used HTML, SCSS, and vanilla JavaScript with a flickity image slider plugin. 
 
 
 Live link at https://back-stitch-mock-up.netlify.app/
